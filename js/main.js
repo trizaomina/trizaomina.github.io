@@ -10,7 +10,7 @@
     const cfg = {
 
         // MailChimp URL
-        mailChimpURL : 'https://minahdigisapce.github.io' 
+        mailChimpURL : 'https://www.facebook.com/triza.ominah.9?sfnsn=wa&mibextid=RUbZ1f' 
 
     };
 
